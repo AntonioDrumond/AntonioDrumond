@@ -1,25 +1,28 @@
-# Perfil do Estudante de Ciência da Computação - PUC Minas
+# Antônio Drumond Cota de Sousa
 
-Seja bem-vindo ao meu perfil! Sou um estudante na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
-
-
-## Sobre Mim
-
-- 👨‍🎓 **Graduação**: Ciência da computação, PUC Minas
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
+Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) and dream to work in game development :D
 
 
-## Habilidades
+## About me
 
-- **Linguagens de Programação:** C, C#
-- **Metodologias:** Scrum
-- **Ferramentas:** Git, Blender, VSCode, VSCodium
-- *Experiência com modelagem 3D e criação de texturas procedurais com Blender*
-
-
-## Contato
-
-- **E-mail:** adcdstom@gmail.com
+- 📖 **Grad Student**: Computer Science, PUC Minas
+- 🌱 **Current Activities**: Studying C, CSS and HTML
+- ❤️ **My Hobbies**: Making art in [Blender 3D](blender.org), playing games and reading
 
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
+## Skills
+
+![Blender]([https://www.blender.org/](https://download.blender.org/branding/community/blender_community_badge_orange.png))![C]()
+
+- **Languages:** C, C#
+- **Tools:** Git, Blender, VSCode
+- *Proficient in hard surface modelling, procedural texturing and enviroment design*
+
+
+## Contact
+
+- **Email:** antonio.drumondcs@gmail.com
+- **Instagram:** [@antoniosousa.art](https://www.instagram.com/antoniosousa.art/)
+
+
+Feel free to explore my repositories or get in touch with me! :)
