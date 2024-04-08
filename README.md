@@ -21,7 +21,6 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 
 ## Contact me here:
 <a href="mailto:antonio.drumondcs@gmail.com"><img src="Images/Gmail.png" alt="Gmail" style="width:40px;" align="center"><a> <a href="https://www.instagram.com/antoniosousa.art/"><img src="Images/Insta.png" alt="Insta" style="width:40px;" align="center"><a>
-
-
++ **Email:** antonio.drumondcs@gmail.com
 
 Feel free to explore my repositories or get in touch with me! :)
