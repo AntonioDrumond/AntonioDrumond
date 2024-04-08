@@ -12,7 +12,7 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 
 ## Skills
 
-![Blender]([https://www.blender.org/](https://download.blender.org/branding/community/blender_community_badge_orange.png))![C]()
+![Blender|40](Images/Blender.png)![C|40](Images/C.png)![C#|40](Images/Csharp.png)![Git|40](Images/Git.png) 
 
 - **Languages:** C, C#
 - **Tools:** Git, Blender, VSCode
