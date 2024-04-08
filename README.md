@@ -12,17 +12,16 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 
 ## Skills
 
-<img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/Git.png" alt="Git" style="width:40px;" align="center">
+<img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center">
 
 - **Languages:** C, C#
 - **Tools:** Git, Blender, VSCode
 - *Proficient in hard surface modelling, procedural texturing and enviroment design*
 
 
-## Contact
+## Contact me here:
+<a href="mailto:antonio.drumondcs@gmail.com"><img src="Images/Gmail.png" alt="Gmail" style="width:40px;" align="center"><a>
 
-- **Email:** antonio.drumondcs@gmail.com
-- **Instagram:** [@antoniosousa.art](https://www.instagram.com/antoniosousa.art/)
 
 
 Feel free to explore my repositories or get in touch with me! :)
