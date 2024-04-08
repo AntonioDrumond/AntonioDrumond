@@ -12,7 +12,7 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 
 ## Skills
 
-![Blender|40](Images/Blender.png)![C|40](Images/C.png)![C#|40](Images/Csharp.png)![Git|40](Images/Git.png) 
+<img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/Git.png" alt="Git" style="width:40px;" align="center">
 
 - **Languages:** C, C#
 - **Tools:** Git, Blender, VSCode
