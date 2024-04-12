@@ -3,7 +3,7 @@
 Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) and dream to work in game development :D
 
 
-## About me
+<h2> About me </h2>
 
 - 📖 **Grad Student**: Computer Science, PUC Minas
 - 🌱 **Current Activities**: Studying C, CSS and HTML
