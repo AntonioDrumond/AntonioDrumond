@@ -13,9 +13,9 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 
 ## Skills
 
-<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/HTML5.png" alt="HTML5" style="width:49px;" align="center"><img src="Images/CSS3.png" alt="CSS3" style="width:35px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
+<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center"><img src="Images/CPP.png" alt="CPP" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/HTML5.png" alt="HTML5" style="width:49px;" align="center"><img src="Images/CSS3.png" alt="CSS3" style="width:35px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"><img src="Images/Vim.png" alt="Vim" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
 
-- **Tools:** Git, Blender, VSCode
+- **Tools:** Git, Blender, VSCode, Vim
 - *Proficient in hard surface modelling, procedural texturing and enviroment design*
 
 
