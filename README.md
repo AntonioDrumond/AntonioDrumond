@@ -6,7 +6,7 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 <h2> About me </h2>
 
 - 📖 **Grad Student**: Computer Science, PUC Minas
-- 🌱 **Current Activities**: Studying C++, C and CSS
+- 🌱 **Current Activities**: Studying C++, C, CSS and OpenGL
 - ❤️ **My Hobbies**: Making art in [Blender 3D](https://blender.org), playing games and reading
 - 🗣️**Languages**: I can speak Portuguese and English fluently, and I'm learning German, French and Polish
 
