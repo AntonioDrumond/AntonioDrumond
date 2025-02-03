@@ -1,12 +1,9 @@
 # Antônio Drumond Cota de Sousa
 
-Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) and dream to work in game development :D
-
-
 <h2> About me </h2>
 
 - 📖 **Grad Student**: Computer Science, PUC Minas
-- 🌱 **Current Activities**: Studying Java, Vim Script and NixOS
+- 🌱 **Current Activities**: Studying NixOS and assembly
 - ❤️ **My Hobbies**: Making art in [Blender 3D](https://blender.org), playing games and reading
 - 🗣️**Languages**: I can speak Portuguese and English fluently, and I'm learning German, French and Polish
 
@@ -18,8 +15,7 @@ Hello! My name is Antônio, I'm a student at [PUC Minas](https://www.pucminas.br
 #### Other languages and technologies
 <img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/nixos.png" alt="Nix" style="width:40px;" align="center"><img src="Images/SDL.png" alt="SDL" style="width:40px;" align="center"><img src="Images/postgre.png" alt="PostgreSQL" style="width:40px;" align="center"><img src="Images/HTML5.png" alt="HTML5" style="width:49px;" align="center"><img src="Images/CSS3.png" alt="CSS3" style="width:35px;" align="center"><img src="Images/Vim.png" alt="Vim" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
 
-- **Tools:** Git, Blender, Vim
-- *Proficient in hard surface modelling, procedural texturing and environment design*
+- **Tools:** Nix, Vim, Git, Blender
 
 
 ## Contact me here:
