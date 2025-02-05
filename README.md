@@ -3,7 +3,7 @@
 <h2> About me </h2>
 
 - 📖 **Grad Student**: Computer Science, PUC Minas
-- 🌱 **Current Activities**: Studying NixOS and assembly
+- 🌱 **Current Activities**: Studying NixOS and machine language
 - ❤️ **My Hobbies**: Making art in [Blender 3D](https://blender.org), playing games and reading
 - 🗣️**Languages**: I can speak Portuguese and English fluently, and I'm learning German, French and Polish
 
