@@ -3,17 +3,17 @@
 <h2> About me </h2>
 
 - 📖 **Grad Student**: Computer Science, PUC Minas
-- 🌱 **Current Activities**: Researching System Rollbacks, Studying NixOS and the Rust programming language
+- 🌱 **Current Activities**: Researching Computer Architecture and Operating Systems, Studying NixOS and the Rust programming language
 - ❤️ **My Hobbies**: Making art in [Blender 3D](https://blender.org), playing games and reading
-- 🗣️**Languages**: I can speak Portuguese and English fluently, and I'm learning German, French and Polish
+- 🗣️ **Languages**: I can speak Portuguese and English fluently, and I'm learning German, French and Polish
 
 
 ## Skills
 #### My top languages by skill:
-<img src="Images/CPP.png" alt="CPP" style="width:40px;" align="center"><img src="Images/java.png" alt="Java" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center">
+<img src="Images/CPP.png" alt="CPP" style="width:40px;" align="center"><img src="Images/rust.png" alt="Rust" style="width:40px;" align="center"><img src="Images/C.png" alt="C" style="width:40px;" align="center">
 
 #### Other languages and technologies
-<img src="Images/nixos.png" alt="Nix" style="width:40px;" align="center"><img src="Images/rust.png" alt="Rust" style="width:40px;" align="center"><img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/SDL.png" alt="SDL" style="width:40px;" align="center"><img src="Images/postgre.png" alt="PostgreSQL" style="width:40px;" align="center"><img src="Images/HTML5.png" alt="HTML5" style="width:49px;" align="center"><img src="Images/CSS3.png" alt="CSS3" style="width:35px;" align="center"><img src="Images/Vim.png" alt="Vim" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
+<img src="Images/nixos.png" alt="Nix" style="width:40px;" align="center"><img src="Images/java.png" alt="Java" style="width:40px;" align="center"><img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Blender.png" alt="Blender" style="width:40px;" align="center"><img src="Images/Csharp.png" alt="Csharp" style="width:40px;" align="center"><img src="Images/SDL.png" alt="SDL" style="width:40px;" align="center"><img src="Images/postgre.png" alt="PostgreSQL" style="width:40px;" align="center"><img src="Images/HTML5.png" alt="HTML5" style="width:49px;" align="center"><img src="Images/CSS3.png" alt="CSS3" style="width:35px;" align="center"><img src="Images/Vim.png" alt="Vim" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
 
 - **Tools:** Nix, Vim, Git, Blender
 
