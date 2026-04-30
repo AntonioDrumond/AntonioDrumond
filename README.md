@@ -3,7 +3,7 @@
 ## About me
 - Undergraduate researcher at [PUC Minas](https://icei.pucminas.br/)
 - Interested in Operating Systems, Computer Architecture and HPC
-- Currently working in [NARVI](https://github.com/cart-pucminas/narvi) and studying [OneAPI](https://oneapi.io/)
+- Currently working on [NARVI](https://github.com/cart-pucminas/narvi) and studying [OneAPI](https://oneapi.io/)
 
 ## Skills
 #### My top languages by skill:
